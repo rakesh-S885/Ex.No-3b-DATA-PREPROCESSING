@@ -1,4 +1,7 @@
 # Ex.No-3b-DATA PREPROCESSING
+# NAME : S.RAKESH
+# REG NO : 212225080044
+# DATE : 31/10/2026
 ## Aim
 To perform data preprocessing on a dataset using Python and Scikit-learn by handling missing values, encoding categorical data, splitting the dataset, and applying feature scaling. 
 ## Procedure
